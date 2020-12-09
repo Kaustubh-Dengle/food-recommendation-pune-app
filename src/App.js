@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
-import { cuisineDB } from "./db.js";
+import { cuisineDB } from "./dbarray.js";
 
 let dbArray = Object.keys(cuisineDB);
 
