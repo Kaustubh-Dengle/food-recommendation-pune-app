@@ -77,10 +77,10 @@ export let cuisineDB = {
     {
       name: "Al-hifazat",
       address: "Shastrinagar",
-      rating: "4.3/5",
+      rating: "4.5/5",
       info:
-        "This place is known for its kebabs and biryanis, bu the hidden gem of their menu is the shawarma. Even though it's small, the taste is great.",
-      cost: "1000 for two"
+        "This place is known for its kebabs and biryanis, but the hidden gem of their menu is the shawarma. Even though it's small, the taste is great.",
+      cost: "200 for two"
     }
   ],
   Italian: [
